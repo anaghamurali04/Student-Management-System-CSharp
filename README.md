@@ -75,19 +75,19 @@ The `Student` class stores student information such as:
 
 ### Add Student
 
-![Add Student](Screenshots/Add Student.png)
+![Add Student](Screenshots/Add-Student.png)
 
 ### View Students
 
-![View Students](Screenshots/View Student.png)
+![View Students](Screenshots/View-Student.png)
 
 ### Search Student
 
-![Search Student](Screenshots/Search student.png)
+![Search Student](Screenshots/Search-student.png)
 
 ### Delete and Exit
 
-![Delete and Exit](Screenshots/Delete and Exit.png)
+![Delete and Exit](Screenshots/Delete-and-Exit.png)
 
 ---
 
