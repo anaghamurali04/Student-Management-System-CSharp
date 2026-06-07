@@ -83,7 +83,7 @@ The `Student` class stores student information such as:
 
 ### Search Student
 
-![Search Student](Screenshots/Search-student.png)
+![Search Student](Screenshots/Search-Student.png)
 
 ### Delete and Exit
 
