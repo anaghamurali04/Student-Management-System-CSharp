@@ -71,6 +71,26 @@ The `Student` class stores student information such as:
 
 ---
 
+## Screenshots
+
+### Add Student
+
+![Add Student](Screenshots/Add Student.png)
+
+### View Students
+
+![View Students](Screenshots/View Student.png)
+
+### Search Student
+
+![Search Student](Screenshots/Search student.png)
+
+### Delete and Exit
+
+![Delete and Exit](Screenshots/Delete and Exit.png)
+
+---
+
 ## Future Enhancements
 
 - Database Integration using SQL Server
